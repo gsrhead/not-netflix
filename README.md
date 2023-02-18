@@ -13,8 +13,8 @@
 ### load time faster to movies
 ### mobile app acceptable
 ### download free or in web
-https://www.figma.com/proto/I4WpmJNUycYyOxNpxxyssH/Untitled?node-id=1%3A2&scaling=contain&page-id=0%3A1
 
+![2023-02-18 15_40_47-▶ Page 1 - netlfix](https://user-images.githubusercontent.com/115747784/219898828-5563ec34-aed0-4964-a620-d5c3cc3fedbf.png)
 
 # WireFrame *Figma*
 
