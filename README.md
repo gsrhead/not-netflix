@@ -14,7 +14,7 @@
 ### mobile app acceptable
 ### download free or in web
 
-![2023-02-18 15_40_47-▶ Page 1 - netlfix](https://user-images.githubusercontent.com/115747784/219898828-5563ec34-aed0-4964-a620-d5c3cc3fedbf.png)
+![2023-02-19 01_11_58-▶ Page 1 - netlfix](https://user-images.githubusercontent.com/115747784/219932212-bcc27185-2a2a-4dfd-99b5-e2ea833580c2.png)
 
 # WireFrame *Figma*
 
